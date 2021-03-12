@@ -1,0 +1,35 @@
+{
+  "sarahedo": {
+    "id": "sarahedo",
+    "name": "Sarah Edo",
+    "avatarURL": "https://tylermcginnis.com/would-you-rather/sarah.jpg",
+    "answers": {
+      "600d4d0714b63b3b6c2a960f": "optionOne",
+      "600d4d0714b63b3b6c2a9610":"optionTwo",
+      "600d4d0714b63b3b6c2a9611":"optionTwo",
+      "600d4d0714b63b3b6c2a9612":"optionTwo"
+    },
+    "questions": []
+  },
+  "tylermcginnis": {
+    "id": "tylermcginnis",
+    "name": "Tyler McGinnis",
+    "avatarURL": "https://tylermcginnis.com/would-you-rather/tyler.jpg",
+    "answers": {
+      "600d4d0714b63b3b6c2a9613": "optionOne",
+      "600d4d0714b63b3b6c2a9614":"optionTwo"
+    },
+    "questions": []
+  },
+  "johndoe": {
+    "id": "johndoe",
+    "name": "John Doe",
+    "avatarURL": "https://tylermcginnis.com/would-you-rather/dan.jpg",
+    "answers": {
+      "600d4d0714b63b3b6c2a9610": "optionTwo",
+      "600d4d0714b63b3b6c2a9613": "optionTwo",
+      "600d4d0714b63b3b6c2a9614":"optionOne"
+    },
+    "questions": []
+  }
+}

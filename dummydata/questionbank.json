@@ -1,0 +1,92 @@
+[
+  {
+     "author":"sarahedo",
+     "optionOne":{
+        "votes":[
+           "sarahedo"
+        ],
+        "text":"have horrible short term memory"
+     },
+     "optionTwo":{
+        "votes":[
+        ],
+        "text":"have horrible long term memory"
+     }
+  },
+  {
+     "author":"johndoe",
+     "optionOne":{
+        "votes":[
+           
+        ],
+        "text":"become a superhero"
+     },
+     "optionTwo":{
+        "votes":[
+           "johndoe",
+           "sarahedo"
+        ],
+        "text":"become a supervillain"
+     }
+  },
+  {
+     "author":"sarahedo",
+     "optionOne":{
+        "votes":[
+           
+        ],
+        "text":"be telekinetic"
+     },
+     "optionTwo":{
+        "votes":[
+           "sarahedo"
+        ],
+        "text":"be telepathic"
+     }
+  },
+  {
+     "author":"tylermcginnis",
+     "optionOne":{
+        "votes":[
+           
+        ],
+        "text":"be a front-end developer"
+     },
+     "optionTwo":{
+        "votes":[
+           "sarahedo"
+        ],
+        "text":"be a back-end developer"
+     }
+  },
+  {
+     "author":"tylermcginnis",
+     "optionOne":{
+        "votes":[
+           "tylermcginnis"
+        ],
+        "text":"find $50 yourself"
+     },
+     "optionTwo":{
+        "votes":[
+           "johndoe"
+        ],
+        "text":"have your best friend find $500"
+     }
+  },
+  {
+     "author":"johndoe",
+     "optionOne":{
+        "votes":[
+           "johndoe"
+        ],
+        "text":"write JavaScript"
+     },
+     "optionTwo":{
+        "votes":[
+           "tylermcginnis"
+        ],
+        "text":"write Swift"
+     }
+  }
+]
